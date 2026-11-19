@@ -1,0 +1,6 @@
+pandas
+openpyxl
+matplotlib
+reportlab
+pillow
+pywin32; sys_platform == "win32"
